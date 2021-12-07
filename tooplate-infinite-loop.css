@@ -147,7 +147,7 @@ blockquote {
 
 #infinite {
 	background-color: #222;
-  background-image: url(../img/infinite-loop-01.jpg);
+  background-image: url(infinite-loop-01.jpg);
   background-repeat: no-repeat;
   height: 100vh;
   min-height: 375px;
@@ -286,7 +286,7 @@ blockquote {
 
 @media (max-width: 991px) {
   #testimonials {
-    background-image: url(../img/infinite-loop-02-mobile.jpg);
+    background-image: url(infinite-loop-02-mobile.jpg);
   }
 }
 
